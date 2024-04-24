@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(197, 159, 6);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(57, 184, 247);
+}
+
+p {
+    text-align: center;
+    color: rgb(57, 184, 247);
+}
+
+a:link {
+    color: rgb(197, 159, 6);
+}
+
+a:visited {
+    color: rgb(197, 159, 6);
+}
+
+a:hover {
+    color: rgb(57, 184, 247);
+}
+
+a:active {
+    color: aqua;
+}
+
+div {
+    text-align: center;
+}
